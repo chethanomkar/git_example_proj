@@ -2,6 +2,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("this is my first empty project\n");
+	printf("pass file 1\n");
 	return 0;
 }
